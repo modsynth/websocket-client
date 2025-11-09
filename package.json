@@ -1,0 +1,10 @@
+{
+  "name": "@modsynth/websocket-client",
+  "version": "0.1.0",
+  "description": "WebSocket real-time communication client",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Modsynth Team",
+  "license": "MIT",
+  "devDependencies": {"typescript": "^5.0.0"}
+}
